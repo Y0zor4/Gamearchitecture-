@@ -1,0 +1,2 @@
+# Gamearchitecture-
+ゲームアーキテクチャ用
